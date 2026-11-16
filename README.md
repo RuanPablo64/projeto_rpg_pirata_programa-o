@@ -6,7 +6,8 @@
 > **Semestre:** 2026.2[cite: 2]  
 > **Componente e Matrícula:** Ruan Pablo de Almeida Ventura (20260016860)[cite: 2]  
 > **Autor do Almanaque:** Thommas Kevin Sales Flores[cite: 2]  
-
+---
+obs: ao rodar o código, em caso da tela ficar preta, aperte a tecla Enter para o código continuar!
 ---
 
 ## 0. Sobre o Almanaque de Piratas Iniciantes
