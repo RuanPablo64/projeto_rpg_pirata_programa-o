@@ -1585,7 +1585,7 @@ void casa_combate(personagem *p, int numero_fase, int casa_chefe_final, inimigo 
            acao_usar_item(p);
            break;
         case habilidades:
-           usar_habilidades(p, i);
+           usar_habilidades(p, &inimigo_combate);
            break;
         case fugir:
            resultado = fuga(casa_chefe_final);
